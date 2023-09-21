@@ -1,5 +1,5 @@
 # Playwright-for-Python
-This repository leverages Playwright for Python, a powerful automation framework, to streamline the process of transferring customer to destination resellers. Given an input list of customer and their corresponding reseller, the automation workflow efficiently transfers each customer to their respective reseller, eliminating the need for manual intervention.
+This repository leverages Playwright for Python, a powerful automation framework, to streamline the process of transferring customers to destination resellers in the CloudBlueCommerce platform. Given an input list of customers and their corresponding reseller, the automation workflow efficiently transfers each customer to their respective reseller, eliminating the need for manual intervention.
 
 #Key Features:
 
